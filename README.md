@@ -17,7 +17,7 @@ Salve meu nobre!
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh7-1.fna.fbcdn.net/v/t51.2885-19/300117154_192883683166802_2771903078897592449_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgh7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=0TrhVfkx7-gAX-mNtEb&tn=bH7Mwgs6B_FCN0-T&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-xtC3SfTkcGSI_DODitIan2rNTEkVm1VnNh8ZDpEbGbQ&oe=63297B9E&_nc_sid=8fd12b">
 </div>
   
   ##
